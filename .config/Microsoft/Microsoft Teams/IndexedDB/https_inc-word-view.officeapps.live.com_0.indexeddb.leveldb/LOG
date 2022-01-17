@@ -1,0 +1,5 @@
+2022/01/12-12:01:04.387 3bfe Reusing MANIFEST /home/geexu/.config/Microsoft/Microsoft Teams/IndexedDB/https_inc-word-view.officeapps.live.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/12-12:05:41.982 260f Level-0 table #5: started
+2022/01/12-12:05:42.025 260f Level-0 table #5: 874 bytes OK
+2022/01/12-12:05:42.060 260f Delete type=0 #3
+2022/01/12-12:05:42.061 260f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

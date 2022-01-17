@@ -1,0 +1,18 @@
+2022/01/14-12:35:04.396 91d Reusing MANIFEST /home/geexu/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/14-12:35:04.396 91d Recovering log #364
+2022/01/14-12:35:04.396 91d Reusing old log /home/geexu/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000364.log 
+2022/01/14-13:15:08.182 94e Level-0 table #373: started
+2022/01/14-13:15:08.286 94e Level-0 table #373: 1509515 bytes OK
+2022/01/14-13:15:08.374 94e Delete type=0 #364
+2022/01/14-13:16:19.195 94e Compacting 1@1 + 4@2 files
+2022/01/14-13:16:19.406 94e Generated table #374@1: 1399 keys, 2144842 bytes
+2022/01/14-13:16:19.544 94e Generated table #375@1: 12656 keys, 2174549 bytes
+2022/01/14-13:16:19.669 94e Generated table #376@1: 1533 keys, 2137139 bytes
+2022/01/14-13:16:19.792 94e Generated table #377@1: 15936 keys, 2127665 bytes
+2022/01/14-13:16:19.792 94e Compacted 1@1 + 4@2 files => 8584195 bytes
+2022/01/14-13:16:19.826 94e compacted to: files[ 0 0 4 0 0 0 0 ]
+2022/01/14-13:16:19.826 94e Delete type=2 #367
+2022/01/14-13:16:19.826 94e Delete type=2 #368
+2022/01/14-13:16:19.827 94e Delete type=2 #369
+2022/01/14-13:16:19.827 94e Delete type=2 #370
+2022/01/14-13:16:19.827 94e Delete type=2 #373

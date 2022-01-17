@@ -1,0 +1,24 @@
+2022/01/17-10:20:46.753 a5d Reusing MANIFEST /home/geexu/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/MANIFEST-000001
+2022/01/17-10:20:46.753 a5d Recovering log #451
+2022/01/17-10:20:46.753 a5d Reusing old log /home/geexu/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/000451.log 
+2022/01/17-10:21:50.790 e15 Level-0 table #454: started
+2022/01/17-10:21:51.262 e15 Level-0 table #454: 61102 bytes OK
+2022/01/17-10:21:51.504 e15 Delete type=0 #451
+2022/01/17-10:21:51.505 e15 Compacting 4@0 + 1@1 files
+2022/01/17-10:21:51.839 e15 Generated table #455@0: 245 keys, 616393 bytes
+2022/01/17-10:21:51.839 e15 Compacted 4@0 + 1@1 files => 616393 bytes
+2022/01/17-10:21:52.232 e15 compacted to: files[ 0 1 0 0 0 0 0 ]
+2022/01/17-10:21:52.233 e15 Delete type=2 #444
+2022/01/17-10:21:52.233 e15 Delete type=2 #454
+2022/01/17-10:21:52.233 e15 Delete type=2 #450
+2022/01/17-10:21:52.233 e15 Delete type=2 #448
+2022/01/17-10:21:52.233 e15 Delete type=2 #446
+2022/01/17-11:38:50.807 e15 Level-0 table #457: started
+2022/01/17-11:38:51.352 e15 Level-0 table #457: 79799 bytes OK
+2022/01/17-11:38:51.504 e15 Delete type=0 #453
+2022/01/17-12:42:15.325 e15 Level-0 table #459: started
+2022/01/17-12:42:15.363 e15 Level-0 table #459: 61650 bytes OK
+2022/01/17-12:42:15.393 e15 Delete type=0 #456
+2022/01/17-13:41:00.509 e15 Level-0 table #461: started
+2022/01/17-13:41:00.574 e15 Level-0 table #461: 66479 bytes OK
+2022/01/17-13:41:00.651 e15 Delete type=0 #458

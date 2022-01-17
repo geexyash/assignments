@@ -1,0 +1,34 @@
+2022/01/17-10:20:54.334 abf Reusing MANIFEST /home/geexu/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/17-10:20:54.334 abf Recovering log #372
+2022/01/17-10:20:54.551 abf Reusing old log /home/geexu/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000372.log 
+2022/01/17-10:21:14.738 be7 Level-0 table #380: started
+2022/01/17-10:21:15.107 be7 Level-0 table #380: 1700763 bytes OK
+2022/01/17-10:21:15.426 be7 Delete type=0 #372
+2022/01/17-10:21:18.353 be7 Compacting 1@1 + 4@2 files
+2022/01/17-10:21:19.511 be7 Generated table #381@1: 1409 keys, 2143679 bytes
+2022/01/17-10:21:20.496 be7 Generated table #382@1: 12710 keys, 2174652 bytes
+2022/01/17-10:21:21.231 be7 Generated table #383@1: 1519 keys, 2135909 bytes
+2022/01/17-10:21:21.816 be7 Generated table #384@1: 16081 keys, 2178060 bytes
+2022/01/17-10:21:21.816 be7 Compacted 1@1 + 4@2 files => 8632300 bytes
+2022/01/17-10:21:21.992 be7 compacted to: files[ 0 0 4 0 0 0 0 ]
+2022/01/17-10:21:21.993 be7 Delete type=2 #375
+2022/01/17-10:21:21.993 be7 Delete type=2 #380
+2022/01/17-10:21:21.993 be7 Delete type=2 #374
+2022/01/17-10:21:21.993 be7 Delete type=2 #377
+2022/01/17-10:21:21.993 be7 Delete type=2 #376
+2022/01/17-12:08:41.733 be7 Level-0 table #386: started
+2022/01/17-12:08:41.826 be7 Level-0 table #386: 1216576 bytes OK
+2022/01/17-12:08:41.933 be7 Delete type=0 #379
+2022/01/17-12:52:59.100 be7 Compacting 1@1 + 4@2 files
+2022/01/17-12:52:59.323 be7 Generated table #387@1: 1393 keys, 2145579 bytes
+2022/01/17-12:52:59.432 be7 Generated table #388@1: 12812 keys, 2181647 bytes
+2022/01/17-12:52:59.599 be7 Generated table #389@1: 1519 keys, 2137528 bytes
+2022/01/17-12:52:59.708 be7 Generated table #390@1: 16123 keys, 2189187 bytes
+2022/01/17-12:52:59.749 be7 Generated table #391@1: 32 keys, 6132 bytes
+2022/01/17-12:52:59.749 be7 Compacted 1@1 + 4@2 files => 8660073 bytes
+2022/01/17-12:52:59.828 be7 compacted to: files[ 0 0 5 0 0 0 0 ]
+2022/01/17-12:52:59.829 be7 Delete type=2 #386
+2022/01/17-12:52:59.829 be7 Delete type=2 #381
+2022/01/17-12:52:59.829 be7 Delete type=2 #383
+2022/01/17-12:52:59.829 be7 Delete type=2 #384
+2022/01/17-12:52:59.829 be7 Delete type=2 #382
