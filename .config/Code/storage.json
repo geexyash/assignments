@@ -182,7 +182,8 @@
                     },
                     {
                         "id": "workbench.action.files.revert",
-                        "label": "Re&&vert File"
+                        "label": "Re&&vert File",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.closeActiveEditor",
@@ -562,8 +563,7 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "&&Word Wrap",
-                        "enabled": false
+                        "label": "&&Word Wrap"
                     },
                     {
                         "id": "editor.action.toggleMinimap",
