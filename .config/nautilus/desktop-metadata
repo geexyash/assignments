@@ -1,0 +1,19 @@
+[directory]
+nautilus-icon-view-keep-aligned=true
+nautilus-icon-view-layout-timestamp=1642395042
+nautilus-desktop-icon-size=96
+
+[trash]
+nautilus-icon-position-timestamp=1642395042
+nautilus-icon-position=56,26
+icon-scale=1
+
+[CDROM.volume]
+nautilus-icon-position=212,26
+icon-scale=1
+nautilus-icon-position-timestamp=1642347330
+
+[Nokia 6.1 Plus.volume]
+nautilus-icon-position=212,126
+icon-scale=1
+nautilus-icon-position-timestamp=1642347330

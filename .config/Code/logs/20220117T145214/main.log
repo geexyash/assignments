@@ -1,0 +1,7 @@
+[2022-01-17 14:52:14.537] [main] [info] update#setState idle
+[2022-01-17 14:52:14.745] [main] [info] ExtensionHostStarterWorker created
+[2022-01-17 14:52:16.830] [main] [info] Starting extension host with pid 26236 (fork() took 44 ms).
+[2022-01-17 14:52:44.539] [main] [info] update#setState checking for updates
+[2022-01-17 14:52:44.542] [main] [info] update#setState idle
+[2022-01-17 14:52:46.259] [main] [info] Waiting for extension host with pid 26236 to exit.
+[2022-01-17 14:52:46.265] [main] [info] Extension host with pid 26236 exited with code: 0, signal: null.

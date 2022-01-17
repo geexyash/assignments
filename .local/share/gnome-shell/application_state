@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.FileRoller.desktop" open-window-count="0" score="1" last-seen="1642395538"/>
+    <application id="gnome-control-center.desktop" open-window-count="0" score="7.625" last-seen="1642347849"/>
+    <application id="discord_discord.desktop" open-window-count="1" score="1353.125" last-seen="1642409823"/>
+    <application id="dosbox.desktop" open-window-count="0" score="2.5" last-seen="1641904288"/>
+    <application id="org.gnome.Nautilus.desktop" open-window-count="1" score="107.5" last-seen="1642410774"/>
+    <application id="update-manager.desktop" open-window-count="0" score="0" last-seen="1641905331"/>
+    <application id="notepad-plus-plus_notepad-plus-plus.desktop" open-window-count="1" score="1434.6875" last-seen="1642410777"/>
+    <application id="eog.desktop" open-window-count="0" score="21.25" last-seen="1642406254"/>
+    <application id="google-chrome.desktop" open-window-count="1" score="13397.625" last-seen="1642411190"/>
+    <application id="teams.desktop" open-window-count="1" score="1657.125" last-seen="1642411369"/>
+    <application id="org.gnome.gedit.desktop" open-window-count="0" score="1" last-seen="1641907246"/>
+    <application id="gnome-terminal.desktop" open-window-count="0" score="0" last-seen="0"/>
+    <application id="libreoffice-calc.desktop" open-window-count="0" score="1.5" last-seen="1641963670"/>
+    <application id="code_code.desktop" open-window-count="2" score="111.5" last-seen="1642411369"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="0" score="345.25" last-seen="1642410931"/>
+    <application id="org.gnome.Totem.desktop" open-window-count="0" score="1.5" last-seen="1642406329"/>
+    <application id="libreoffice-writer.desktop" open-window-count="0" score="0.5" last-seen="1642064267"/>
+  </context>
+</application-state>
