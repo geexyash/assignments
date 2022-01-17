@@ -2,3 +2,20 @@
 (Use `code --trace-deprecation ...` to show where the warning was created)
 [2022-01-17 14:53:56.762] [renderer1] [error] [Extension Host] (node:26564) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
 (Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-01-17 15:10:58.236] [renderer1] [error] Error: Unable to read file '/home/geexu/assignments' (Error: Unable to read file '/home/geexu/assignments' that is actually a directory)
+    at Ei.doReadFileStream (vscode-file://vscode-app/snap/code/85/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:577:34849)
+    at async u.doRead (vscode-file://vscode-app/snap/code/85/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2369:42314)
+    at async u.readStream (vscode-file://vscode-app/snap/code/85/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2369:42035)
+    at async sn.resolveFromFile (vscode-file://vscode-app/snap/code/85/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2358:73209)
+    at async o.doResolve (vscode-file://vscode-app/snap/code/85/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2369:36878)
+    at async Oa.doResolveAsText (vscode-file://vscode-app/snap/code/85/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1741:85703)
+    at async Promise.all (index 1)
+    at async Yr.createModel (vscode-file://vscode-app/snap/code/85/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1523:9854)
+    at async Yr.resolve (vscode-file://vscode-app/snap/code/85/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1523:9569)
+    at async el.setInput (vscode-file://vscode-app/snap/code/85/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2323:41867)
+    at async n.doSetInput (vscode-file://vscode-app/snap/code/85/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2323:35224)
+    at async n.doOpenEditor (vscode-file://vscode-app/snap/code/85/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2323:33525)
+    at async n.openEditor (vscode-file://vscode-app/snap/code/85/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2323:33151)
+    at async vscode-file://vscode-app/snap/code/85/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2525:17056
+    at async vscode-file://vscode-app/snap/code/85/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2323:56628
+    at async Tt.open (vscode-file://vscode-app/snap/code/85/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2331:50361)

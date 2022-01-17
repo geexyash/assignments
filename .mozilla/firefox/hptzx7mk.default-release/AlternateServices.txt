@@ -1,0 +1,3 @@
+https:safebrowsing.googleapis.com:443:.:^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:3	0	19009	https:safebrowsing.googleapis.com:443:safebrowsing.googleapis.com:443::n:1645003657:h3:y:1642411593:n:^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:|n:y:
+https:www.googletagmanager.com:443:.:^partitionKey=%28https%2Cgit-scm.com%29:3	0	19009	https:www.googletagmanager.com:443:www.googletagmanager.com:443::n:1645003605:h3:y:1642411593:n:^partitionKey=%28https%2Cgit-scm.com%29:|n:y:
+https:www.google-analytics.com:443:.:^partitionKey=%28https%2Cgit-scm.com%29:3	0	19009	https:www.google-analytics.com:443:www.google-analytics.com:443::n:1645003606:h3:y:1642411593:n:^partitionKey=%28https%2Cgit-scm.com%29:|n:y:
